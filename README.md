@@ -1,2 +1,2 @@
 # CashPlugin
-[PMMP] It Implement Cash System
+CraftBukkit - It Implement Cash System
